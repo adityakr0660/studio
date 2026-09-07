@@ -1,0 +1,22 @@
+{
+  "name": "photo-studio-mern",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Professional Photo Studio Website built with React and Supabase",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": [
+    "react",
+    "supabase",
+    "photography",
+    "studio"
+  ],
+  "author": "Photo Studio Pro Team",
+  "license": "MIT"
+}
